@@ -1,0 +1,2 @@
+"Welcome to target file '
+"Second line of file "
